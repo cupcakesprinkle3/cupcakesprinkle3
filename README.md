@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I am currently working as a freelance marketing consultant while looking for my next big thing. Need high-impact marketing services—delivered exactly when you need them? [Reach out on LinkedIn!](https://www.linkedin.com/in/mlbrinich/)
+- 💼 I am currently working as a freelance marketing consultant while looking for my next big thing. Need high-impact marketing services—delivered exactly when you need them? [Reach out on LinkedIn!](https://www.linkedin.com/in/mlbrinich/)
 - 🔭 I previously worked on marketing & community initiatives for Voxel51's open source computer vision toolset - [FiftyOne](https://github.com/voxel51/fiftyone) - as well as other beloved tech brands including Red Hat, NGINX, Blockstream, Okta, Yugabyte, and Deepfence
 - 🌱 I’m currently learning AI-related concepts, and from time to time, I publish AI-related articles over in the [Raising AI](https://medium.com/raising-ai) publication on Medium
 - 📖 You can find other blogs I've written in my [author archives](https://michelle-96669.medium.com/) over on Medium
